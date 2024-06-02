@@ -1,8 +1,21 @@
-# React + Vite
+<h1>Aircraft Radar App Project</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Used Technologies</h2>
 
-Currently, two official plugins are available:
+<ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<li>axios</li>
+<li>bootstrap</li>
+<li>leaflet</li>
+<li>moment</li>
+<li>react-icons</li>
+<li>react-leaflet</li>
+<li>react-paginate</li>
+<li>react-redux</li>
+<li>redux-toolkit</li>
+
+</ul>
+
+<h1>Screen Gif</h1>
+
+<img src="/public/aircraftradar.gif" />
