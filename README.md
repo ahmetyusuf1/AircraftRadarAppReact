@@ -1,5 +1,7 @@
 <h1>Aircraft Radar App Project</h1>
 
+<p>This project, developed with React, allows users to watch live flights and get detailed information about flights. It provides updated real-time flight data to the user.</p>
+
 <h2>Used Technologies</h2>
 
 <ul>
